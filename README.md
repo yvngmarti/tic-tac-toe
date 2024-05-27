@@ -43,7 +43,4 @@ cd tic-tac-toe
 
 ## Screenshots
 
-### Future Enhancements
-
-- Improve the UI/UX design.
-- Add animations and sound effects.
+Soon
