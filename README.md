@@ -18,7 +18,7 @@ The Tic-Tac-Toe game allows two players to play against each other on a 3x3 grid
 - Clone the repository:
 
 ~~~bash
-git clone https://github.com/yourusername/mondasi-tictactoe.git
+git clone https://github.com/yvngmarti/tic-tac-toe.git
 ~~~
 
 - Navigate to the project directory:
